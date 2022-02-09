@@ -1,0 +1,85 @@
+.PROJECT {
+  h1 {
+    margin-top: 0px;
+    background-color: rgb(197, 80, 59);
+    color: white;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    div {
+      margin-left: 100px;
+      font-family: "Cairo", sans-serif, cursive;
+      display: inline;
+      margin-right: 100px;
+      margin-top: 20px;
+    }
+    .books {
+      color: white;
+      display: inline-block;
+      height: 35px;
+      width: 100px;
+      font-size: large;
+      padding-right: 9px;
+      padding-top: 22px;
+      padding-bottom: 11px;
+      padding-left: 40px;
+      font-family: cursive;
+      letter-spacing: 5px;
+    }
+    .books:hover {
+      background-color: rgb(168, 65, 47);
+    }
+    .readzal {
+      color: white;
+      display: inline-block;
+      height: 35px;
+      width: 200px;
+      font-size: large;
+      padding-right: 29px;
+      padding-top: 22px;
+      padding-bottom: 11px;
+      padding-left: 40px;
+      font-family: cursive;
+      letter-spacing: 5px;
+    }
+    .readzal:hover {
+      background-color: rgb(168, 65, 47);
+    }
+    .auth {
+      margin-right: 50px;
+      float: right;
+      .reg {
+        font-size: large;
+        display: inline-block;
+        padding: 0 8px 3px 8px;
+        box-shadow: 0 0 0 1.5px white;
+        border-radius: 4px;
+        cursor: pointer;
+        font-weight: normal;
+      }
+      .login {
+        margin-left: 20px;
+        font-size: large;
+        font-weight: normal;
+        cursor: pointer;
+      }
+    }
+  }
+  .disabled-link {
+    pointer-events: none;
+  }
+}
+
+.bloor {
+  filter: blur(2px);
+  opacity: 0.7;
+}
+
+.have_you_known_block {
+  z-index: 4;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}

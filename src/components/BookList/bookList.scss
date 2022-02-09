@@ -1,0 +1,104 @@
+.booksBlock {
+  display: flex;
+  .levels {
+    margin-top: 100px;
+    margin-left: 18%;
+    margin-right: 30px;
+    div {
+      margin-bottom: 10px;
+      box-shadow: 0 0 0 1px rgb(0, 0, 0, 0.2);
+      color: rgb(0, 0, 0, 0.5);
+      padding: 5px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    div:hover {
+      background-color: rgb(255, 255, 249);
+      box-shadow: 0 0 0 1px rgb(0, 0, 0, 0.4);
+      color: black;
+    }
+    .acivelevel {
+      box-shadow: 0 0 0 2px rgb(255, 0, 0, 0.5);
+      color: red;
+    }
+    .acivelevel:hover {
+      box-shadow: 0 0 0 2px rgb(255, 0, 0, 0.5);
+    }
+  }
+  .bookList {
+    background-color: rgb(247, 247, 247);
+    width: 1020px;
+    margin-top: 100px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 40px 0px 40px 0px;
+    h2 {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .book {
+      display: inline-block;
+      margin-left: 100px;
+      img {
+        width: 200px;
+        height: 250px;
+        margin-bottom: -3px;
+      }
+      .info {
+        background-color: #fff;
+        width: 198px;
+        margin-left: 1px;
+        height: 120px;
+        hr {
+          margin-top: 15;
+          opacity: 0.9;
+        }
+        div {
+          cursor: pointer;
+          padding: 7px 4px 5px 6px;
+          height: 15px;
+          overflow: hidden;
+          word-break: break-all;
+          width: 95.2%;
+          font-size: small;
+          opacity: 0.7;
+          span {
+            font-weight: bold;
+            margin-right: 6px;
+          }
+        }
+        .button {
+          a {
+            text-decoration: none;
+            div {
+              text-align: center;
+              padding: 0px 5px 3px 3px;
+              border-radius: 4px 4px 4px 4px;
+              box-shadow: 0 0 0px 1.4px red;
+              color: red;
+              width: 50px;
+              float: right;
+              margin-right: 5px;
+            }
+            div:hover {
+              box-shadow: 0 0 0px 2px red;
+              font-weight: bold;
+            }
+          }
+        }
+        .button {
+          div {
+            text-align: center;
+            padding: 0px 5px 3px 3px;
+            border-radius: 4px 4px 4px 4px;
+            box-shadow: 0 0 0px 1.4px red;
+            color: red;
+            width: 50px;
+            float: right;
+            margin-right: 5px;
+          }
+        }
+      }
+    }
+  }
+}

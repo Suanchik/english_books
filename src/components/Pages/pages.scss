@@ -1,0 +1,30 @@
+.pages {
+  background-color: rgb(255, 244, 244);
+  text-align: center;
+  padding: 10px 40px 10px 40px;
+  border-radius: 0 0 15px 15px;
+  .page {
+    width: 20px;
+    margin-left: 3px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(119, 119, 255, 0.8);
+    color: white;
+  }
+  .page:hover {
+    box-shadow: 0 0 0px 1px black;
+  }
+  .dispage {
+    height: 30px;
+    width: 30px;
+  }
+  .done {
+    width: 20px;
+    margin-left: 3px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(182, 243, 60);
+  }
+}
