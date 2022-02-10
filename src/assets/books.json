@@ -1,69 +1,70 @@
+
 {
   "words": [
     {
       "word": "in",
       "learned": false,
-      "explain": "для",
+      "explain": " ",
       "id": 2
     },
     {
       "word": "love",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 3
     },
     {
       "word": "because",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 4
     },
     {
       "word": "never",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 5
     },
     {
       "word": "think",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 6
     },
     {
       "word": "you",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 7
     },
     {
       "word": "did not",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 8
     },
     {
       "word": "her",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 9
     },
     {
       "word": "made",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 10
     },
     {
       "word": "have helped",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 11
     },
     {
       "word": "over",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 12
     },
     {
@@ -87,7 +88,7 @@
     {
       "word": "woman",
       "learned": false,
-      "explain": "для",
+      "explain": "",
       "id": 18
     }
   ],
@@ -102,7 +103,7 @@
         "translate": false
       },
       {
-        "explain": "скандал",
+        "explain": "скандал...",
         "id": 226,
         "head": true,
         "engl": "A Scandal",
@@ -110,7 +111,7 @@
         "translate": false
       },
       {
-        "explain": "в",
+        "explain": "в...",
         "id": 227,
         "head": true,
         "engl": "in",
@@ -118,11 +119,11 @@
         "translate": false
       },
       {
-        "explain": "для",
+        "explain": "Богемия...",
         "id": 228,
         "head": true,
         "engl": "Bohemia",
-        "russ": "Богемии",
+        "russ": "Богемия",
         "translate": false
       }
     ],
@@ -139,7 +140,7 @@
               "translate": false
             },
             {
-              "explain": "Ставим апостроф перед «s», когда что-то (кто-то) принадлежит кому-либо (чему-то) и владелец указан в единственном числе, 'a baby's toy - игрушка ребенка'. А если владельцев (или чего-то) уже несколько, то апостроф ставится после «s», 'my parents' car - машина моих родителей'.",
+              "explain": "king - король. Ставим апостроф перед «s», когда что-то (кто-то) принадлежит кому-либо (чему-то) и владелец указан в единственном числе, 'a baby's toy - игрушка ребенка'. А если владельцев (или чего-то) уже несколько, то апостроф ставится после «s», 'my parents' car - машина моих родителей'.",
               "id": 2233,
               "engl": "king's",
               "russ": "короля",
@@ -155,42 +156,42 @@
           ]
         },
         {
-          "explain": "для, на, за, в, к, в течение, от, ради, из-за, вместо, ибо, ввиду того, что",
+          "explain": ", на, за, в, к, в течение, от, ради, из-за, вместо, ибо, ввиду того, что",
           "id": 0,
           "engl": "For",
           "russ": "Для",
           "translate": false
         },
         {
-          "explain": "Шерлок Холмс",
+          "explain": "Шерлок Холмс имя и фамилия главного персонажа",
           "id": 1,
           "engl": "Sherlock Holmes,",
           "russ": "Шерлок Холмс",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "было, там было...",
           "id": 2,
           "engl": "there was",
-          "russ": "была",
+          "russ": "была, было",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "только...",
           "id": 3,
           "engl": "only",
           "russ": "только",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "одно...",
           "id": 4,
           "engl": "one",
-          "russ": "одна",
+          "russ": "одна, один",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "женщина...",
           "id": 5,
           "engl": "woman",
           "russ": "женщина",
@@ -198,415 +199,420 @@
           "skobki": "дом"
         },
         {
-          "explain": "для",
+          "explain": "в...",
           "id": 6,
           "engl": "in",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "мир...",
           "id": 7,
           "engl": "the world.",
-          "russ": "мире.",
+          "russ": "мир",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "он...",
           "id": 8,
           "engl": "He",
           "russ": "Он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "не сделал...",
           "id": 9,
           "engl": "did not",
           "russ": "не",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "любовь...",
           "id": 10,
           "engl": "love",
-          "russ": "любил",
+          "russ": "любовь, любить",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "её...",
           "id": 11,
           "engl": "her,",
           "russ": "её,",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "потому что...",
           "id": 12,
           "engl": "because",
           "russ": "потому что",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "он...",
           "id": 13,
           "engl": "he",
           "russ": "он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "никогда...",
           "id": 14,
           "engl": "never",
-          "russ": "никогда не",
-          "translate": false,
-          "skobki": "совершенно"
+          "russ": "никогда, никогда не",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "либить...",
           "id": 15,
           "engl": "loved",
           "russ": "любил",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 16,
           "engl": "women.",
-          "russ": "женщин.",
+          "russ": "женщин",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 17,
           "engl": "But",
           "russ": "Но",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 18,
           "engl": "after",
           "russ": "после",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 19,
           "engl": "their",
           "russ": "их",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 20,
           "engl": "meeting",
           "russ": "встречи",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 21,
           "engl": "he",
           "russ": "он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 22,
           "engl": "never",
-          "russ": "никогда не",
+          "russ": "никогда, никогда не",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 23,
           "engl": "forgot",
-          "russ": "забывал",
+          "russ": "забывал, забыл",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 24,
           "engl": "her.",
-          "russ": "её.",
+          "russ": "её",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 25,
           "engl": "Her",
           "russ": "Её",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 26,
           "engl": "name",
           "russ": "имя",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 27,
           "engl": "was",
-          "russ": "было",
+          "russ": "было, являлось",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 28,
           "engl": "Irene Adler.",
-          "russ": "Ирэн Адлер.",
+          "russ": "Ирэн Адлер",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 29,
           "engl": "One",
-          "russ": "В одну",
+          "russ": "Одно, один, В одну",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 30,
           "engl": "night",
           "russ": "ночь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 31,
           "engl": "in",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 32,
           "engl": "march",
-          "russ": "марте",
+          "russ": "март, в марте",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 33,
           "engl": "I",
           "russ": "я",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 34,
           "engl": "visited",
           "russ": "навестил",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 35,
           "engl": "my",
-          "russ": "своего",
+          "russ": "мой, моего, своего",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 36,
           "engl": "old",
-          "russ": "старого",
+          "russ": "старый, старого",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 37,
           "engl": "friend",
-          "russ": "друга",
+          "russ": "друг, друга",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 38,
           "engl": "at",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 39,
           "engl": "his",
           "russ": "его",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 40,
           "engl": "home",
-          "russ": "доме",
+          "russ": "дом, доме, дома",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 41,
           "engl": "in",
-          "russ": "на",
+          "russ": "на, в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 42,
           "engl": "Baker Street.",
-          "russ": "Бейкер Стрит.",
+          "russ": "Бейкер Стрит",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 46,
           "engl": "I",
           "russ": "Я",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 47,
           "engl": "was",
           "russ": "был",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 48,
           "engl": "married",
           "russ": "женат",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 49,
           "engl": "by now,",
-          "russ": "к тому моменту,",
+          "russ": "к сейчас, к тому моменту",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 50,
           "engl": "so",
-          "russ": "поэтому",
+          "russ": "так, поэтому",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 51,
           "engl": "I",
           "russ": "я",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 52,
           "engl": "did not",
-          "russ": "не",
+          "russ": "не, не делал",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 53,
           "engl": "often.",
           "russ": "часто",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 54,
           "engl": "see",
           "russ": "видел",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 55,
           "engl": "him.",
-          "russ": "его.",
+          "russ": "его",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 56,
           "engl": "“Come in,",
-          "russ": "“Входи",
+          "russ": "“войти, входи",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 57,
           "engl": "Watson,”",
-          "russ": "Ватсон,”",
+          "russ": "Ватсон",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 58,
-          "engl": "he said.",
-          "russ": "сказал он.",
+          "engl": "he.",
+          "russ": "он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
+          "id": 0.58,
+          "engl": "said.",
+          "russ": "сказал",
+          "translate": false
+        },
+        {
+          "explain": "...",
           "id": 59,
           "engl": "“Sit down.",
-          "russ": "“Присядь.",
+          "russ": "садись, Присядь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 60,
           "engl": "I’m",
-          "russ": "Я",
+          "russ": "Я, я являюсь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 61,
           "engl": "happy",
           "russ": "счастлив",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 62,
           "engl": "to see",
           "russ": "видеть",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 63,
           "engl": "you",
-          "russ": "тебя,",
+          "russ": "тебя",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 64,
           "engl": "because”",
           "russ": "потому что",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 65,
           "engl": "I’ve got",
-          "russ": "У меня есть",
+          "russ": "У меня есть, я имею",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 66,
           "engl": "something",
           "russ": "что то",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 67,
           "engl": "to",
           "russ": "что бы",
@@ -614,1319 +620,1294 @@
           "skobki": "дом"
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 68,
           "engl": "show",
-          "russ": "показать",
+          "russ": "показать, показывать",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 69,
           "engl": "you.",
-          "russ": "тебе.",
+          "russ": "тебе, ты, тебя",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 70,
-          "engl": "What.",
+          "engl": "What",
           "russ": "что",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 71,
           "engl": "do you",
           "russ": "ты",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 72,
           "engl": "think",
           "russ": "думаешь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 73,
           "engl": "of",
           "russ": "об",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 74,
           "engl": "this?",
-          "russ": "этом?",
+          "russ": "этом",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 75,
           "engl": "It",
-          "russ": "Оно",
+          "russ": "Оно, это",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 76,
           "engl": "arrived",
           "russ": "прибыла",
-          "translate": false,
-          "skobki": "совершенно"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 77,
           "engl": "in",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 78,
           "engl": "the last",
-          "russ": "последней",
+          "russ": "последней, последний",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 79,
           "engl": "post”",
-          "russ": "почте”",
+          "russ": "почта, почте",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 80,
           "engl": "It",
           "russ": "Это",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 81,
           "engl": "was",
           "russ": "было",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 82,
           "engl": "letter,",
-          "russ": "письмо,",
+          "russ": "письмо",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 83,
           "engl": "with no",
           "russ": "без",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 84,
           "engl": "date",
-          "russ": "даты,",
+          "russ": "даты",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 85,
           "engl": "name",
           "russ": "имени",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 86,
           "engl": "or",
           "russ": "или",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 87,
           "engl": "address",
-          "russ": "ардреса.",
+          "russ": "ардреса, адрес",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 88,
           "engl": "It said",
-          "russ": "В нем говорилось:",
+          "russ": "В нем говорилось, это говорило",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 89,
           "engl": "“Tonight,",
-          "russ": "“Сегодня ночью,",
+          "russ": "Сегодня ночью",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 90,
           "engl": "someone",
-          "russ": "кто",
+          "russ": "кто то",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 91,
           "engl": "will visit",
           "russ": "посетит",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 92,
           "engl": "you",
           "russ": "вас",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 93,
           "engl": "to talk",
           "russ": "что бы поговорит",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 94,
           "engl": "about",
-          "russ": "о",
+          "russ": "об",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 95,
           "engl": "some",
-          "russ": "каком то",
+          "russ": "каком то, что то, какой то",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 96,
           "engl": "very",
           "russ": "очень",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 97,
           "engl": "secret",
-          "russ": "секретном",
+          "russ": "секретном, секрет, секретное",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 98,
           "engl": "business.",
-          "russ": "деле.",
+          "russ": "деле, дело",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 99,
           "engl": "You",
-          "russ": "Вы",
+          "russ": "Вы, ты тебя, тебе",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 100,
           "engl": "have helped",
-          "russ": "помогли",
+          "russ": "помогли, имели опыт помочь кому то",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 101,
           "engl": "other",
-          "russ": "другим",
+          "russ": "другим, другие",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 102,
           "engl": "important",
-          "russ": "важным",
+          "russ": "важным, выжный",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 103,
           "engl": "people,",
-          "russ": "людям",
+          "russ": "людям, люди",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 104,
           "engl": "and",
           "russ": "и",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 105,
           "engl": "you",
           "russ": "вы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 106,
           "engl": "can,",
-          "russ": "можете,",
+          "russ": "можете",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 107,
           "engl": "we",
           "russ": "мы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 108,
           "engl": "hope,",
-          "russ": "надеемся",
+          "russ": "надеемся, надеюсь, надежда",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 109,
           "engl": "help",
-          "russ": "помочь",
+          "russ": "помочь, помощь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 110,
           "engl": "us.",
-          "russ": "нам.",
+          "russ": "нам, нас",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 111,
           "engl": "Be",
           "russ": "Будьте",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 112,
           "engl": "in",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 113,
           "engl": "your",
-          "russ": "вашем",
+          "russ": "вашем, ваш",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 114,
           "engl": "room",
-          "russ": "номере",
+          "russ": "номере, номер",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 115,
           "engl": "at.",
-          "russ": "в",
+          "russ": "в, на",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 116,
-          "engl": "7.45 p.m.”",
-          "russ": "7:40 вечера.”",
+          "engl": "7:45 p.m.”",
+          "russ": "7:40 вечера”",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 117,
           "engl": "“The paper — ",
-          "russ": "“Бумага — ",
+          "russ": "Бумага ",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 118,
           "engl": "what",
           "russ": "что",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 119,
           "engl": "do you",
           "russ": "вы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 120,
           "engl": "think",
-          "russ": "думаете",
+          "russ": "думаете, думать",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 121,
           "engl": "about",
-          "russ": "о",
+          "russ": "об",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 122,
           "engl": "the paper?”",
           "russ": "бумаге”",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 123,
           "engl": "asked",
           "russ": "спросил",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 124,
           "engl": "Holmes.",
-          "russ": "Холмс.",
+          "russ": "Холмс",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 125,
           "engl": "I",
           "russ": "Я",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 126,
           "engl": "tried",
           "russ": "пробовал",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 127,
           "engl": "to think",
           "russ": "думать",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 128,
           "engl": "like",
           "russ": "как",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 129,
           "engl": "Holmes.",
           "russ": "Холмс",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 130,
           "engl": "“It’s",
-          "russ": "Эта бумага",
+          "russ": "Эта, это, эта бумага",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 131,
           "engl": "expensive,",
-          "russ": "дорогая",
+          "russ": "дорогая, дорогой",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 132,
           "engl": "so",
-          "russ": "значит",
-          "translate": false,
-          "skobki": "совершенно"
+          "russ": "так, значит",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 133,
           "engl": "this",
           "russ": "этот",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 134,
           "engl": "person",
-          "russ": "человек",
+          "russ": "человек, персона",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 135,
           "engl": "is",
           "russ": "является",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 136,
           "engl": "rich.",
-          "russ": "богатым.",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "russ": "богатым, богатый",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 137,
           "engl": "It’s",
-          "russ": "Эта",
+          "russ": "Эта, это является",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 138,
           "engl": "strange",
-          "russ": "странная",
+          "russ": "странная, старнный, незнакомец",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 139,
           "engl": "paper.”",
-          "russ": "бумага.”",
-          "translate": false,
-          "skobki": "гордость"
-        },
-        {
-          "explain": "для",
-          "id": 140,
-          "engl": "“Yes,",
-          "russ": "“Да,",
+          "russ": "бумага",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
+          "id": 140,
+          "engl": "“Yes,",
+          "russ": "Да",
+          "translate": false
+        },
+        {
+          "explain": "...",
           "id": 141,
           "engl": "it’s not",
           "russ": "это не",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 142,
           "engl": "English.",
-          "russ": "английский.",
+          "russ": "английский",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 143,
           "engl": "If",
           "russ": "Если",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 144,
           "engl": "you",
           "russ": "вы",
-          "translate": false,
-          "skobki": "совершенно"
-        },
-        {
-          "explain": "для",
-          "id": 145,
-          "engl": "look",
-          "russ": "посмотрите",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
+          "id": 145,
+          "engl": "look",
+          "russ": "посмотрите, смотреть",
+          "translate": false
+        },
+        {
+          "explain": "...",
           "id": 146,
           "engl": "at",
           "russ": "на",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 147,
           "engl": "it",
           "russ": "это",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 148,
-          "engl": "in the light,",
-          "russ": "в свете",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "engl": "in",
+          "russ": "в",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
+          "id": 0.148,
+          "engl": "the light,",
+          "russ": "свет",
+          "translate": false
+        },
+        {
+          "explain": "...",
           "id": 149,
           "engl": "you",
           "russ": "вы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 150,
           "engl": "can",
-          "russ": "можете",
+          "russ": "можете, могу, мочь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 151,
           "engl": "see",
-          "russ": "увидеть",
+          "russ": "увидеть, смотреть, видеть",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 152,
           "engl": "that",
           "russ": "то что",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 153,
           "engl": "it",
           "russ": "это",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 154,
           "engl": "was",
           "russ": "было",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 155,
           "engl": "made",
           "russ": "сделанно",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 156,
           "engl": "in",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 157,
           "engl": "Bohemia.",
-          "russ": "Богемии.",
+          "russ": "Богемии, Богемия",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 158,
           "engl": "And",
           "russ": "И",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 159,
           "engl": "a German",
-          "russ": "на немецком",
+          "russ": "немецкий",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 160,
           "engl": "I",
           "russ": "Я",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 171,
           "engl": "think",
           "russ": "думаю",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 172,
           "engl": "wrote",
-          "russ": "написанны",
+          "russ": "написанный, написанные",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 173,
           "engl": "the letter.",
-          "russ": "буквы.",
+          "russ": "буквы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 174,
           "engl": "Ah,",
-          "russ": "О,",
-          "translate": false,
-          "skobki": "совершенно"
+          "russ": "О",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 175,
           "engl": "here",
           "russ": "сюда",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 176,
           "engl": "comes",
           "russ": "приходит",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 177,
           "engl": "our",
           "russ": "наш",
-          "translate": false,
-          "skobki": "very much - очень много"
-        },
-        {
-          "explain": "для",
-          "id": 178,
-          "engl": "man",
-          "russ": "человек",
-          "translate": false,
-          "skobki": "very much - очень много"
-        },
-        {
-          "explain": "для",
-          "id": 179,
-          "engl": "now.”",
-          "russ": "прямо щас.”",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
+          "id": 178,
+          "engl": "man",
+          "russ": "человек",
+          "translate": false
+        },
+        {
+          "explain": "...",
+          "id": 179,
+          "engl": "now.”",
+          "russ": "сейчас",
+          "translate": false
+        },
+        {
+          "explain": "...",
           "id": 180,
           "engl": "We",
           "russ": "Мы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 181,
           "engl": "could",
-          "russ": "смогли",
+          "russ": "смогли, могли",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 182,
           "engl": "hear",
-          "russ": "услышать",
-          "translate": false,
-          "skobki": "гордость"
+          "russ": "услышать, слышать",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 183,
           "engl": "the horses",
-          "russ": "лошадей",
+          "russ": "лошадей, лошади",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 184,
           "engl": "in the street.",
-          "russ": "на улице.",
+          "russ": "на улице",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 185,
           "engl": "“Shall",
           "russ": "Стоит ли",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 186,
           "engl": "I",
           "russ": "мне",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 187,
           "engl": "leave,",
-          "russ": "уйти,",
-          "translate": false,
-          "skobki": "совершенно"
+          "russ": "уйти",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 188,
           "engl": "Holmes?”",
-          "russ": "Холмс?”",
+          "russ": "Холмс",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 189,
           "engl": "“No, no,",
-          "russ": "“Нет, нет,",
+          "russ": "Нет, нет",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 190,
           "engl": "I",
           "russ": "мне",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 191,
           "engl": "need",
           "russ": "нужна",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 192,
           "engl": "your",
           "russ": "ваша",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 193,
           "engl": "help.",
-          "russ": "помощь.",
-          "translate": false,
-          "skobki": "совершенно"
+          "russ": "помощь",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 194,
           "engl": "This",
           "russ": "Это",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 195,
           "engl": "will be",
           "russ": "будет",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 196,
           "engl": "interesting,”",
-          "russ": "интересно,”",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "russ": "интересно",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 197,
           "engl": "my",
           "russ": "мой",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 198,
           "engl": "friend",
           "russ": "друг",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 199,
           "engl": "answered.",
-          "russ": "ответил.",
+          "russ": "ответил",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 200,
           "engl": "There was",
           "russ": "Был",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 201,
           "engl": "a knock",
           "russ": "стук",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 202,
           "engl": "at",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 203,
           "engl": "the door.",
           "russ": "дверь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 204,
           "engl": "“Come in!”",
-          "russ": "“Входите!”",
+          "russ": "Входите, войти",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 205,
           "engl": "called",
           "russ": "сказал",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 206,
           "engl": "Holmes.",
-          "russ": "Холмс.",
+          "russ": "Холмс",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 207,
           "engl": "A tall",
-          "russ": "Высокий,",
+          "russ": "Высокий",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 208,
           "engl": "strong",
           "russ": "сильный",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 209,
           "engl": "man",
           "russ": "мужчина",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 210,
           "engl": "came",
-          "russ": "зашел",
+          "russ": "зашел, прийти",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 211,
           "engl": "into",
           "russ": "в",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 212,
           "engl": "the room.",
-          "russ": "комнату.",
+          "russ": "комнату, эта комната",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 213,
           "engl": "He",
           "russ": "Он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 214,
           "engl": "was wearing",
-          "russ": "носил",
+          "russ": "носил, был носящим",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 215,
           "engl": "expensive",
-          "russ": "дорогую",
+          "russ": "дорогую, дорогой",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 216,
           "engl": "clothes",
-          "russ": "одежду",
-          "translate": false,
-          "skobki": "гордость"
+          "russ": "одежду, одежда",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 217,
           "engl": "and",
           "russ": "и",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 218,
           "engl": "a mask",
-          "russ": "маску",
+          "russ": "маску, маска",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 219,
           "engl": "over",
           "russ": "на",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 220,
           "engl": "his",
-          "russ": "своем",
+          "russ": "своем, его",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 221,
           "engl": "face.",
-          "russ": "лице.",
-          "translate": false,
-          "skobki": "совершенно"
-        },
-        {
-          "explain": "для",
-          "id": 222,
-          "engl": "“You",
-          "russ": "“Вы",
+          "russ": "лице",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
+          "id": 222,
+          "engl": "“You",
+          "russ": "Вы",
+          "translate": false
+        },
+        {
+          "explain": "...",
           "id": 223,
           "engl": "can",
           "russ": "можете",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 224,
           "engl": "call me",
-          "russ": "звать меня",
+          "russ": "звать меня, зовите меня",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 225,
           "engl": "Count von Kramm",
           "russ": "Графф ван Крамм",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 226,
           "engl": "I come from",
           "russ": "я из",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 227,
           "engl": "Bohemia,”",
           "russ": "Богемии",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 228,
           "engl": "he said.",
           "russ": "сказал он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 229,
           "engl": "“My",
-          "russ": "”Моё",
+          "russ": "Моё",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 230,
           "engl": "business",
           "russ": "дело",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 231,
           "engl": "most",
           "russ": "самое",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 232,
           "engl": "important.",
           "russ": "важно.",
-          "translate": false,
-          "skobki": "гордость"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 233,
           "engl": "Before",
-          "russ": "До того как",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "russ": "До того как, до",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 234,
           "engl": "I",
           "russ": "я",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 235,
           "engl": "tell",
-          "russ": "скажу",
+          "russ": "скажу, говорит, сказать",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 236,
           "engl": "you",
           "russ": "вам",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 237,
           "engl": "about",
           "russ": "об",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 238,
           "engl": "it,",
           "russ": "этом",
-          "translate": false,
-          "skobki": "совершенно"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 239,
           "engl": "do you agree",
           "russ": "согласны ли вы",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 240,
           "engl": "to keep",
           "russ": "хранить",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 241,
           "engl": "a secret?”",
-          "russ": "секрет?”",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "russ": "секрет",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 242,
           "engl": "“I do,”",
           "russ": "Да",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 243,
           "engl": "we",
           "russ": "мы",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 244,
           "engl": "said",
-          "russ": "сказали",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "russ": "сказали, сказал",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 245,
           "engl": "together.",
-          "russ": "вместе.",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "russ": "вместе",
+          "translate": false
         }
       ],
       [
         {
-          "explain": "для",
+          "explain": "...",
           "id": 1,
           "engl": "“A very",
           "russ": "Очень",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 2,
           "engl": "important",
           "russ": "важный",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 3,
           "engl": "person,",
           "russ": "человек",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 4,
           "engl": "who",
-          "russ": "который",
+          "russ": "который, кто",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 5,
           "engl": "belongs",
-          "russ": "принадлежит",
+          "russ": "принадлежит, принадлежать",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 6,
           "engl": "to",
           "russ": "к",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 7,
           "engl": "a royal",
-          "russ": "королевской семье",
+          "russ": "королевской, королевская",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 8,
           "engl": "family,",
           "russ": "фамилии",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 9,
           "engl": "has sent",
           "russ": "отправил",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 10,
           "engl": "me",
-          "russ": "меня",
-          "translate": false,
-          "skobki": "гордость"
+          "russ": "меня, я",
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 11,
           "engl": "to ask",
           "russ": "попросить",
-          "translate": false,
-          "skobki": "very much - очень много"
+          "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 12,
           "engl": "for your",
-          "russ": "вашей",
+          "russ": "вашей, для вас",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 13,
           "engl": "help,”",
-          "russ": "помощи,”",
+          "russ": "помощи, помощь",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 14,
           "engl": "he",
           "russ": "он",
           "translate": false
         },
         {
-          "explain": "для",
+          "explain": "...",
           "id": 15,
           "engl": "went on.",
-          "russ": "продолжил.",
-          "translate": false,
-          "skobki": "совершенно"
+          "russ": "продолжил",
+          "translate": false
         }
       ]
     ]
