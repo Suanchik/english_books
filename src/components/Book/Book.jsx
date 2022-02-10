@@ -32,13 +32,13 @@ const Book = React.memo(({ booName, setbookName, setisbloor, setdeletingWord, se
     useEffect(() => {
         if (booName !== bookname) {
             setisloauding(true)
-            axios.get(`http://localhost:3001/${bookname}`).then(res => {
+            axios.get(`/${bookname}`).then(res => {
                 dispatch(getBook(res.data.text));
                 dispatch(getName(res.data.name));
                 setbookName(bookname)
                 setisloauding(false)
             })
-            axios.get(`http://localhost:3001/words`).then(res => {
+            axios.get(`/words`).then(res => {
                 dispatch(getWord(res.data.reverse()));
             })
         }
