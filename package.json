@@ -25,6 +25,7 @@
     "json-server": "json-server src/assets/books.json --watch --port 3001",
     "server": "node server.js"
   },
+  "proxy": "http://localhost:3001",
   "eslintConfig": {
     "extends": [
       "react-app",
