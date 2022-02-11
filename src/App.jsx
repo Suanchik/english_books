@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { HashRouter } from 'react-router-dom';
 import { BrowserRouter } from 'react-router-dom';
 import './App.scss';
 import DeleteWindow from './components/Book/DeleteWindow';
@@ -28,7 +29,7 @@ function App() {
 
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div>
         {
           isbloor ?
@@ -40,7 +41,7 @@ function App() {
           <Routs setId={setId} setdeletingWord={setdeletingWord} setisbloor={setisbloor} isAuth={isAuth} isbloor={isbloor} />
         </div>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
