@@ -18,7 +18,7 @@ const Generator = ({ el, class1, class2, index = null, translaterName, chapterTr
         }).join('').toLowerCase();
         const newword = { word: wordFilter, learned: false, explain: explain };
         if (!words.some(el => el.word === wordFilter)) {
-            axios.post(`http://localhost:3001/words/`, newword).then((res) => {
+            axios.post(`/words/`, newword).then((res) => {
                 dispatch(setWord(res.data))
             })
         };
