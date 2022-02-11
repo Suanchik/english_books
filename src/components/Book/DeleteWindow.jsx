@@ -10,7 +10,7 @@ const DeleteWindow = ({ setisbloor, id, deletingWord }) => {
 
     const deletWord = () => {
 
-        axios.delete(`http://localhost:3001/words/${id}`)
+        axios.delete(`/words/${id}`)
             .then(() => {
                 dispatch(deleteWordAC(id))
                 setisbloor(false)
