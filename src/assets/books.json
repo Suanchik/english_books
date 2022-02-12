@@ -1,6 +1,107 @@
-
 {
   "words": [
+    {
+      "word": "name",
+      "learned": false,
+      "explain": "...",
+      "id": 1
+    },
+    {
+      "word": "forgot",
+      "learned": false,
+      "explain": "...",
+      "id": 2
+    },
+    {
+      "word": "meeting",
+      "learned": false,
+      "explain": "...",
+      "id": 3
+    },
+    {
+      "word": "never",
+      "learned": false,
+      "explain": "никогда...",
+      "id": 4
+    },
+    {
+      "word": "the world",
+      "learned": false,
+      "explain": "мир...",
+      "id": 5
+    },
+    {
+      "word": "woman",
+      "learned": false,
+      "explain": "женщина...",
+      "id": 6
+    },
+    {
+      "word": "there was",
+      "learned": false,
+      "explain": "было, там было...",
+      "id": 7
+    },
+    {
+      "word": "sherlock holmes",
+      "learned": false,
+      "explain": "Шерлок Холмс имя и фамилия главного персонажа",
+      "id": 8
+    },
+    {
+      "word": "bohemia",
+      "learned": false,
+      "explain": "Богемия...",
+      "id": 12
+    },
+    {
+      "word": "a scandal",
+      "learned": false,
+      "explain": "скандал...",
+      "id": 13
+    },
+    {
+      "word": "hear",
+      "learned": false,
+      "explain": "...",
+      "id": 14
+    },
+    {
+      "word": "made",
+      "learned": false,
+      "explain": "...",
+      "id": 15
+    },
+    {
+      "word": "women",
+      "learned": false,
+      "explain": "...",
+      "id": 16
+    },
+    {
+      "word": "mistake",
+      "learned": false,
+      "explain": "- ошибка, недоразумение, заблуждение",
+      "id": 17
+    },
+    {
+      "word": "king's",
+      "learned": false,
+      "explain": "king - король. Ставим апостроф перед «s», когда что-то (кто-то) принадлежит кому-либо (чему-то) и владелец указан в единственном числе, 'a baby's toy - игрушка ребенка'. А если владельцев (или чего-то) уже несколько, то апостроф ставится после «s», 'my parents' car - машина моих родителей'.",
+      "id": 18
+    },
+    {
+      "word": "the",
+      "learned": false,
+      "explain": "Определённый артикль the — это сокращённая форма от слова this — этот или по другой версии от слова that — тот, these — эти, those — те. Используется, когда речь идёт о конкретном предмете или предметах, конкретном человеке или конкретных людях.",
+      "id": 19
+    },
+    {
+      "word": "in",
+      "learned": false,
+      "explain": "в...",
+      "id": 20
+    }
   ],
   "SherlockHolmes": {
     "name": [
